@@ -31,5 +31,3 @@ function duplicateEncode(word){
     })
     return newArray.join('')
 }
-console.log(duplicateEncode("попа"));
-console.log(duplicateEncode("recede"))
